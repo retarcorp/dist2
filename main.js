@@ -6,6 +6,6 @@ window.onload = function(){
 	var b = document.getElementById('button');
 
 b.addEventListener('click', function(e) {
-	alert('ILYA)) LOH');
+	alert('mda 4');
 })
 }
