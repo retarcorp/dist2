@@ -3,4 +3,9 @@ window.onload = function(){
 	setInterval(function(){
 		document.getElementById("counter").innerText ++;
 	}, delay);
+	var b = document.getElementById('button');
+
+b.addEventListener('click', function(e) {
+	alert('ILYA)) LOH');
+})
 }
